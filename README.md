@@ -5,6 +5,8 @@
 [ThingSpeak channel for Control Aire 1.0](https://thingspeak.com/channels/1222961)
 <br />
 [An image of Hardware breadboard in Fritzing](https://cdn.discordapp.com/attachments/652543278243250196/797623227069366352/Breadboard_Fritzing1.png)
+<br />
+[Control Aire 1.0 final design image](https://cdn.discordapp.com/attachments/652543278243250196/797626395290894366/Control-Aire-1.0-Sleep-mode.png)
 
  #### The parts/components needed for this project to be constructed are the following: ####
  ##### 1. Arduino UNO : The brain of the procedure. #####
