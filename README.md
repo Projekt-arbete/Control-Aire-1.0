@@ -3,7 +3,6 @@
 #### Control Aire 1.0. detects and measures temperature, humidity, pressure and gas with a component called BME680. In idle mode, the product displays real-time clock and in active mode, it shows measurement of air quality.The measurement data will be sent via the Wi-Fi module to the ThingSpeak channel where registered data is stored in the form of graphs. The user can thus access stored data from any smartphone or computer. ####
 
 [ThingSpeak channel for Control Aire 1.0](https://thingspeak.com/channels/1222961)
-https://thingspeak.com/channels/1222961
 
  #### The parts/components needed for this project to be constructed are the following: ####
  ##### 1. Arduino UNO : The brain of the procedure. #####
@@ -35,7 +34,7 @@ https://thingspeak.com/channels/1222961
   <br />
   [An easy-to-use Arduino ESP8266 library besed on AT firmware](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
   <br />
-  [Our test channel in ThingSpeak with sensor measurements for two months](https://thingspeak.com/channels/1223435/private_show)
+  [Our test channel in ThingSpeak with sensor measurements for two months](https://thingspeak.com/channels/1223435)
   <br />
 ##### 5. PIR sensor : (motion sensor)  This sensor detects movement in the environment up to 7 m away at a 120 degree angle. After motion is detected, measured values will be displayed on the LCD. #####
 
